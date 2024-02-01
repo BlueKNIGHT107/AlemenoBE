@@ -1,0 +1,10 @@
+/CreditCardApprovalApp/__pycache__
+/CreditCardApprovalApp/migrations
+data.xlsx
+customer_data.xlsx
+out.csv
+loan_data.xlsx
+Backend Assignment.pdf
+dummy.txt
+.git
+.gitignore

@@ -1,0 +1,7 @@
+Django==4.2.9
+pandas==2.0.3
+openpyxl==3.1.2
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
+python_dotenv==1.0.1
+tqdm==4.66.1
